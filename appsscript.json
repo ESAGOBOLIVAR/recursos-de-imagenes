@@ -1,16 +1,6 @@
 {
-  "timeZone": "America/Indiana/Indianapolis",
-  "dependencies": {
-    "libraries": [{
-      "userSymbol": "Cambiolib",
-      "libraryId": "1zemMWXx3AucgAw-gUAPdtd30KCbVBRQYwUyFPD5rMoqipt1in05KhU_e",
-      "version": "1"
-    }]
-  },
-  "webapp": {
-    "access": "DOMAIN",
-    "executeAs": "USER_DEPLOYING"
-  },
+  "timeZone": "America/Bogota",
   "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "DEPRECATED_ES5"
+  "runtimeVersion": "V8",
+  "dependencies": {}
 }
